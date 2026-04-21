@@ -1,0 +1,20 @@
+{
+  "name": "claude-skills-markdown-mermaid",
+  "version": "1.0.0",
+  "description": "Claude Code skills for Mermaid diagram validation in markdown files",
+  "scripts": {
+    "validate": "tsx claude/skills/markdown/mermaid-validator/scripts/mermaid-check.ts"
+  },
+  "keywords": [
+    "claude",
+    "claude-code",
+    "claude-skills",
+    "mermaid",
+    "mermaid-diagrams",
+    "markdown",
+    "validation"
+  ],
+  "engines": {
+    "node": ">=18"
+  }
+}
