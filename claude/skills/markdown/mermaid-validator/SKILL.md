@@ -1,6 +1,6 @@
 ---
 name: mermaid-validator
-description: Validates Mermaid diagram syntax in markdown files. Self-contained Claude Code skill with zero external dependencies. Auto-triggers when markdown files with Mermaid diagrams are edited.
+description: Validates Mermaid diagram syntax in markdown files. Use when user asks to check, validate, fix, or debug Mermaid diagrams in any markdown file, or when reading markdown files in docs/, prompts/, or .claude/rules/ directories.
 ---
 
 # Mermaid Validator
